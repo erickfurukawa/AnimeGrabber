@@ -9,9 +9,9 @@ Supports downloads from:
 - [ ] Sankaku Channel
 
 Usage: 
-'''
+```
 python grabber.py -t "tags" out_folder n_pages source
-'''
+```
 
 - tags: Check danbooru's and gelbooru's website for more information about how to use tags.
 - out_folder: The folder where the images are going to be downloaded to.
