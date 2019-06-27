@@ -1,5 +1,5 @@
 # AnimeGrabber
-This script allows the user to download posts from the imageboards.
+This script allows the user to download posts from anime imageboards.
 Posts are in general .png and .jpeg images, but there may be also videos and zip files between them. 
 Be aware that the script also downloads R-rated images.
 
